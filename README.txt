@@ -23,4 +23,4 @@ Commands of note:
                    * python pacman.py -p ExpectimaxAgent -l trappedClassic -a depth=3 -q -n 1
                    
   Evaluation Function test: 
-                   * python autograder.py -q q
+                   * python autograder.py -q q5
