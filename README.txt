@@ -1,6 +1,6 @@
 See the original project instructions here: http://ai.berkeley.edu/multiagent.html
 
-This project focuses on multiple agents acting upon a single environment. Relevant algorithms include: Reflex-based Agent, Minimax Agent, AlphaBeta, Expectimax, and an modified Evaluation function.
+This project focuses on multiple agents acting upon a single environment. Relevant algorithms include: Reflex-based Agent, Minimax Agent, AlphaBeta, Expectimax, and a modified Evaluation function.
 
 Commands of note:
 
